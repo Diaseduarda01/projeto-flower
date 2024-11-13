@@ -15,15 +15,5 @@ Para visualizar este projeto localmente, você só precisa de um navegador da we
 
 ## Como usar
 
-1. 📂 Clone este repositório em seu computador:
-   ```
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
-   ```
-
-2. 🛠️ Navegue até o diretório do projeto:
-   ```
-   cd nome-do-projeto
-   ```
-
-3. 🚀 Abra o arquivo `index.html` em seu navegador da web.
+1. 🚀 Abra o Link [Clique Aqui](https://diaseduarda01.github.io/flower/) em seu navegador da web.
 
