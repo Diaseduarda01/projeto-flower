@@ -16,7 +16,8 @@ Ao abrir a página, uma flor encantadora aparece na tela. Um pequeno gesto que p
 ## 📷 **Visualização**  
 
 ### **Página Inicial**  
-![Visualização da Flor](https://github.com/user-attachments/assets/visualizacao-flor.png)  
+![Captura de tela 2025-01-09 193459](https://github.com/user-attachments/assets/1262b2bf-1801-4831-8d4c-e679c208f0bb)
+
 
 ---
 
@@ -28,7 +29,7 @@ Ao abrir a página, uma flor encantadora aparece na tela. Um pequeno gesto que p
 
 ## Como usar
 
-1. 🚀 Abra o Link [Clique Aqui](https://diaseduarda01.github.io/flower/).
+1. 🚀 Abra o Link [Clique Aqui]([https://diaseduarda01.github.io/flower/](https://diaseduarda01.github.io/projeto-flower/)).
 
 
 ### 💖 **Transforme momentos simples em gestos inesquecíveis. Envie uma flor encantada hoje!**  
