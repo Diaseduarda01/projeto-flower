@@ -29,7 +29,7 @@ Ao abrir a página, uma flor encantadora aparece na tela. Um pequeno gesto que p
 
 ## Como usar
 
-1. 🚀 Abra o Link [Clique Aqui]([https://diaseduarda01.github.io/flower/](https://diaseduarda01.github.io/projeto-flower/)).
+1. 🚀 Abra o Link [Clique Aqui](https://diaseduarda01.github.io/projeto-flower/).
 
 
 ### 💖 **Transforme momentos simples em gestos inesquecíveis. Envie uma flor encantada hoje!**  
